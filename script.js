@@ -2,7 +2,7 @@ var x = 50;
 var y = 50;
 
 function setup() {
-  canvas = createCanvas(1000,400);
+  canvas = createCanvas(575,400);
   canvas.parent();
   textFont("Verdana");
   textSize(14);
