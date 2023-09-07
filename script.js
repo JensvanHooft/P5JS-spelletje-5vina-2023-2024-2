@@ -23,7 +23,7 @@ function draw() {
     x += 5;
   }
   if (keyIsDown(LEFT_ARROW)) {
-      x -= 5;
+      x -= 5; 
   }
 
   x = constrain(x,0,width - 100);
